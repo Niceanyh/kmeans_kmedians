@@ -12,6 +12,7 @@ This assignment requires you to implement the **k-means** and **k-medians** clus
 [(Back to top)](#CA2-Data-Clustering)
 
 **Requirement:**
+
 ```python 3.8.8```
 
 ```numpy 1.20.1``` 
