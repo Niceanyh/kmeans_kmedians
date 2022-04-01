@@ -9,7 +9,7 @@ This assignment requires you to implement the **k-means** and **k-medians** clus
 - [Result](#Result)
 
 # Requirement
-[(Back to top)](#CA2 Data Clustering)
+[(Back to top)](#CA2-Data-Clustering)
 **Requirement:**
 ```python 3.8.8```
 ```numpy 1.20.1``` 
@@ -31,7 +31,7 @@ To use this project, first clone the repo on your device using the command below
 
 
 # Development
-[(Back to top)](#table-of-contents)
+[(Back to top)](#CA2-Data-Clustering)
 
 **KMeans**
 
@@ -56,7 +56,7 @@ To use this project, first clone the repo on your device using the command below
 
 
 # Result
-[(Back to top)](#table-of-contents)
+[(Back to top)](#CA2-Data-Clustering)
 
 	KMeans K = 1
 
